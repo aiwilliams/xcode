@@ -1,0 +1,9 @@
+== Xcode Stuff
+
+Provides me a place to keep some reusable Xcode stuff, of course.
+
+== How to use it
+
+1. git clone git://github.com/aiwilliams/xcode.git
+2. cd xcode
+3. ./setup.sh
